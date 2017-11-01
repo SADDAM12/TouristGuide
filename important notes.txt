@@ -1,0 +1,14 @@
+?link:
+home  		http://localhost/touristguide/
+login/signup	http://localhost/touristguide/member.php
+find places     http://localhost/touristguide/find-places.php
+find agencies   http://localhost/touristguide/find-agencies.php
+all places      http://localhost/touristguide/all-places.php
+add new place   http://localhost/touristguide/add-new-place.php
+
+?Session varible
+$_SESSION['member']['stat']= unset:1:2-> logged out:Admin:logged in
+$_SESSION['member']['name']=  member name
+$_SESSION['member']['email']= 
+$_SESSION['member']['country']= 
+$_SESSION['member']['name']= 
